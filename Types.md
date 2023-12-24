@@ -4,4 +4,4 @@
 | floating     | git diff       | git diff      | git status    |
 | Double       | git diff       | git diff      | git status    |
 | Long         | git diff       | git diff      | git status    |
-| Charater     | git diff       | git diff      | git status    |
+| Character     | git diff       | git diff      | git status    |
